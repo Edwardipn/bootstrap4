@@ -1,0 +1,22 @@
+.header{
+    display: flex;
+}
+/* body{
+    background: rgb(201, 201, 226);
+    color: red;
+    border: 5px solid orange;
+} */
+.container{
+    border: red solid 1px;
+}
+.row{
+    border: blue solid 1px;
+}
+.row>*{
+    border: green solid 1px;
+}
+.col{
+    border: rgb(10, 8, 1) solid 2px;
+    background: rgb(9, 22, 22);
+    color: cyan;
+}

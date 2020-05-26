@@ -1,0 +1,4 @@
+1.- Tres son los elementos que conforman el GRID
+	.container
+	.row
+	.col
